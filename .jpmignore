@@ -1,0 +1,6 @@
+node_modules/
+*.xpi
+.git/
+.gitignore
+.jpmignore
+Gruntfile.js

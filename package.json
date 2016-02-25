@@ -1,0 +1,28 @@
+{
+	"title": "Oatmeal Icons for Facebook",
+	"name": "facebook-oatmeal-icons",
+	"version": "0.1.0",
+	"description": "Replace Facebook like icons with icons created by The Oatmeal",
+	"author": {
+		"name": "Pierre Rudloff",
+		"email": "contact@rudloff.pro",
+		"url": "https://www.rudloff.pro/"
+	},
+	"contributors": [{
+		"name": "The Oatmeal",
+		"url": "http://theoatmeal.com/"
+	}],
+	"license": "GPL-3.0",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Rudloff/facebook-oatmeal-icons-firefox.git"
+	},
+	"bugs": "https://github.com/Rudloff/facebook-oatmeal-icons-firefox/issues",
+	"devDependencies": {
+		"grunt": "~0.4.5",
+		"grunt-jslint": "~1.1.14",
+		"grunt-contrib-csslint": "~0.5.0"
+	},
+	"icon": "resource://@facebook-oatmeal-icons/data/images/48px/nope.png",
+	"keywords": ["Facebook", "icons", "The Oatmeal"]
+}

@@ -1,0 +1,60 @@
+/* 16 px */
+._2p7a.like {
+    background-position: center;
+    background-image: url(../images/16px/nope.png);
+}
+
+._2p7a.love {
+    background-position: center;
+    background-image: url(../images/16px/penis.png);
+}
+._2p7a.haha {
+    background-position: center;
+    background-image: url(../images/16px/ha.png);
+}
+
+._2p7a.wow {
+    background-position: center;
+    background-image: url(../images/16px/god.png);
+}
+
+._2p7a.sorry {
+    background-position: center;
+    background-image: url(../images/16px/threw.png);
+}
+
+._2p7a.anger {
+    background-position: center;
+    background-image: url(../images/16px/poop.png);
+}
+
+/* 48 px */
+._iuz.like {
+    background-position: center;
+    background-image: url(../images/48px/nope.png);
+}
+
+._iuz.love {
+    background-position: center;
+    background-image: url(../images/48px/penis.png);
+}
+
+._iuz.haha {
+    background-position: center;
+    background-image: url(../images/48px/haha.png);
+}
+
+._iuz.wow {
+    background-position: center;
+    background-image: url(../images/48px/god.png);
+}
+
+._iuz.sorry {
+    background-position: center;
+    background-image: url(../images/48px/threw.png);
+}
+
+._iuz.anger {
+    background-position: center;
+    background-image: url(../images/48px/poop.png);
+}
